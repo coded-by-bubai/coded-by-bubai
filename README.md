@@ -51,7 +51,5 @@
 
 ## 🚀 Projects
 
-<p align="left">
-  <!-- REPO-CARDS:START -->
+<!-- REPO-CARDS:START -->
 <!-- REPO-CARDS:END -->
-</p>
