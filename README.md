@@ -22,6 +22,16 @@
 
 ---
 
+### 📌 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bubai-das-22a759342" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -39,21 +49,9 @@
 
 ---
 
-
 ## 🚀 Projects
 
 <p align="left">
-  <a href="https://github.com/coded-by-bubai/Quizy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coded-by-bubai&repo=Quizy&theme=tokyonight" />
-  </a>
-</p>
-
----
-<!--
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- a href="https://yourportfolio.com"><img alt="Website" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" /></a !-->
+  <!-- REPO-CARDS:START -->
+<!-- REPO-CARDS:END -->
 </p>
