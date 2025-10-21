@@ -51,5 +51,8 @@
 
 ## 🚀 Projects
 
-<!-- REPO-CARDS:START -->
-<!-- REPO-CARDS:END -->
+<p align="left">
+  <a href="https://github.com/coded-by-bubai/Quizy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coded-by-bubai&repo=Quizy&theme=tokyonight&cache_seconds=60" />
+  </a>
+</p>
