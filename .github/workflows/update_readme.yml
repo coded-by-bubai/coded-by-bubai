@@ -13,8 +13,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ref: main  # Change to 'master' or your main branch name if different
+          # Ref MUST match your default branch (e.g. main or master)
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -32,11 +33,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Check for changes and commit only if needed
           if git diff --quiet && git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git add README.md
             git commit -m "🤖 Update repo cards in README"
-            git push origin HEAD:main
+            git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }} HEAD:main
           fi
