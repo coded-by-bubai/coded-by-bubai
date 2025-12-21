@@ -25,8 +25,15 @@
 ### 📌 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bubai-das-22a759342" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bubai-das1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bubai-das-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/>
+  </a>
+
+  🔗 Portfolio: https://bubai-das-portfolio.netlify.app
+
 </p>
 
 ---
@@ -34,7 +41,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,flask,django,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,flask,flutter,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -53,5 +60,10 @@
 <p align="left">
   <a href="https://github.com/coded-by-bubai/Quizy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coded-by-bubai&repo=Quizy&theme=tokyonight&cache_seconds=60" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://gitlab.com/Bubai-Das/studyhubcenter.git">
+    <img src="https://img.shields.io/badge/GitLab-StudyHubCenter-orange?logo=gitlab&style=for-the-badge" />
   </a>
 </p>
