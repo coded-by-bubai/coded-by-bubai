@@ -40,7 +40,7 @@ https://bubai-das-portfolio.netlify.app
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,flask,flutter,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,flask,flutter,nextjs,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -66,6 +66,7 @@ https://bubai-das-portfolio.netlify.app
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coded-by-bubai&theme=tokyonight" width="47%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coded-by-bubai&theme=tokyonight&utcOffset=5.5" width="47%"/>
 </p>
+
 ## 🚀 Projects
 
 <p align="center">
